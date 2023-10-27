@@ -49,6 +49,7 @@ __❗Note❗__
 Feel Free to Contribute and improve the Bot, certain goals of the Bot will follow soon
 
 ## Developers and maintainers
+leon-wm - https://github.com/leon-wm (Owner)
 
 ## Links
 - Huge thanks to [Lewis Menelaws](https://github.com/elebumm) for the creatin of the [Reddit Video Maker Bot](https://github.com/elebumm/RedditVideoMakerBot)
