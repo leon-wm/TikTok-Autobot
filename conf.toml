@@ -1,0 +1,7 @@
+[settings.interval]
+min = 
+max = 
+
+[settings.upload]
+tags = ""
+pathToCookies = "./www.tiktok.com_cookies.txt"
