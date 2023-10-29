@@ -1,4 +1,4 @@
-<h1 align="center">TikTok-Autobot</h1>
+<h1 align="center"><a href="https://www.tiktok.com/@aireadingthings/">TikTok-Autobot</a></h1>
 
 <p align="center"><i><b>A bot that trys to mimic a human using TikTok</b></i></p>
 
@@ -33,6 +33,7 @@
   - Fill out the `min` and `max` key with the time the Bot should wait minimum/maximum befor uploading the next video(time in seconds => 1h = 3600s)
   - Give the tags __every__ video should get in the `tags` key(Format: tags = "#Reddit#AskReddit")
   - Place the downloaded cookie file in the folder and give it the name `www.tiktok.com_cookies.txt` __or__ change the path to where your file is placed
+  - ***Add `.tiktok.com     TRUE    /   TRUE    1710021971  tiktok_webapp_lang en` as a new line in your cookie file***
 5. Visit [the Reddit Apps page.](https://www.reddit.com/prefs/apps), and set up an app that is a "script". Paste any URL in redirect URL. Ex:google.com
 6. Run `python videocreator.py` or `python3 videocreator.py` once, the Bot will help you to set it up to your likings
 7. Run `python main.py` or `python3 main.py` and the Bot will start working right away
