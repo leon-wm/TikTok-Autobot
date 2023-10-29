@@ -1,6 +1,8 @@
 <h1 align="center"><a href="https://www.tiktok.com/@aireadingthings/">TikTok-Autobot</a></h1>
 
+<p align="center"><img align="center" width="200" height="200" src="https://github.com/leon-wm/TikTok-Autobot/assets/78597735/56354ed1-decf-4c78-b427-d4c9d2aa9a1e" alt="TikTok Autobot - Profile pic"></p>
 <p align="center"><i><b>A bot that trys to mimic a human using TikTok</b></i></p>
+
 
 
 
@@ -11,8 +13,6 @@
   - [Starting the Bot](###Starting-the-Bot)
 - [Contributing & Ways to improve](##Contributing-&-Ways-to-improve)
 - [Developers and maintainers](##CDevelopers-and-maintainers)
-- 
-
 ## Installation
 
 ### Requirements
@@ -53,6 +53,7 @@ __❗Note❗__
 - [ ] Liking Videos
 - [ ] Liking Comments
 - [ ] Going offline during the day(Not beeing to suspicious)
+- [ ] Adding a Video of the Bot working to the `README.md` file
 
 *Feel Free to Contribute and improve the Bot*
 
