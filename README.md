@@ -46,7 +46,14 @@ __❗Note❗__
 
 
 ## Contributing & Ways to improve
-Feel Free to Contribute and improve the Bot, certain goals of the Bot will follow soon
+- [x] Creating and uploading Videos
+- [ ] Having reqular off times during the night
+- [ ] Writing fitting Comments
+- [ ] Liking Videos
+- [ ] Liking Comments
+- [ ] Going offline during the day(Not beeing to suspicious)
+
+*Feel Free to Contribute and improve the Bot, certain goals of the Bot will follow soon*
 
 ## Developers and maintainers
 leon-wm - https://github.com/leon-wm (Owner)
