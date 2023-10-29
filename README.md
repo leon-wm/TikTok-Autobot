@@ -53,7 +53,7 @@ __❗Note❗__
 - [ ] Liking Comments
 - [ ] Going offline during the day(Not beeing to suspicious)
 
-*Feel Free to Contribute and improve the Bot, certain goals of the Bot will follow soon*
+*Feel Free to Contribute and improve the Bot*
 
 ## Developers and maintainers
 leon-wm - https://github.com/leon-wm (Owner)
